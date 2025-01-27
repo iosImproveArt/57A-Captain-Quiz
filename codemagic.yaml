@@ -6,12 +6,12 @@ workflows:
         
         ios_signing:
             distribution_type: app_store
-            bundle_identifier: com.wolfquiz
+            bundle_identifier: com.capquiz
             
         groups:
             - DEFAULT
         vars:
-          BUNDLE_ID: "com.wolfquiz"
+          BUNDLE_ID: "com.capquiz"
           XCODE_WORK: "Captain.xcodeproj"
           XCODE_SCHEME: "Captain"
           
