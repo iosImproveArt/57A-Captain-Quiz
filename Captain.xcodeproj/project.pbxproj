@@ -11,6 +11,19 @@
 		F6F0A76B2D47ABA3000CB5DA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A7682D47ABA3000CB5DA /* ContentView.swift */; };
 		F6F0A76C2D47ABA3000CB5DA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6F0A7642D47ABA3000CB5DA /* Preview Assets.xcassets */; };
 		F6F0A76D2D47ABA3000CB5DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6F0A7662D47ABA3000CB5DA /* Assets.xcassets */; };
+		F6F0A77F2D47AC3D000CB5DA /* privacy.html in Resources */ = {isa = PBXBuildFile; fileRef = F6F0A7702D47AC3D000CB5DA /* privacy.html */; };
+		F6F0A7802D47AC3D000CB5DA /* QuestionPickView Captain57.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A7772D47AC3D000CB5DA /* QuestionPickView Captain57.swift */; };
+		F6F0A7812D47AC3D000CB5DA /* NotificationCenter Captain57.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A7742D47AC3D000CB5DA /* NotificationCenter Captain57.swift */; };
+		F6F0A7822D47AC3D000CB5DA /* QuestionViewModel Captain57.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A7752D47AC3D000CB5DA /* QuestionViewModel Captain57.swift */; };
+		F6F0A7832D47AC3D000CB5DA /* ProfileView Captain57.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A77D2D47AC3D000CB5DA /* ProfileView Captain57.swift */; };
+		F6F0A7842D47AC3D000CB5DA /* ImagePicker Captain57.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A77C2D47AC3D000CB5DA /* ImagePicker Captain57.swift */; };
+		F6F0A7852D47AC3D000CB5DA /* Extensions Captain57.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A7792D47AC3D000CB5DA /* Extensions Captain57.swift */; };
+		F6F0A7862D47AC3D000CB5DA /* LoadingView Captain57.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A76F2D47AC3D000CB5DA /* LoadingView Captain57.swift */; };
+		F6F0A7872D47AC3D000CB5DA /* WebView Captain57.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A7722D47AC3D000CB5DA /* WebView Captain57.swift */; };
+		F6F0A7882D47AC3D000CB5DA /* QuestionView Captain57.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A7762D47AC3D000CB5DA /* QuestionView Captain57.swift */; };
+		F6F0A7892D47AC3D000CB5DA /* PrivacyView Captain57.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A7712D47AC3D000CB5DA /* PrivacyView Captain57.swift */; };
+		F6F0A78A2D47AC3D000CB5DA /* QuestionsView Captain57.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A77B2D47AC3D000CB5DA /* QuestionsView Captain57.swift */; };
+		F6F0A78B2D47AC3D000CB5DA /* FactsView Captain57.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F0A77A2D47AC3D000CB5DA /* FactsView Captain57.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,20 @@
 		F6F0A7662D47ABA3000CB5DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F6F0A7672D47ABA3000CB5DA /* CaptainApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptainApp.swift; sourceTree = "<group>"; };
 		F6F0A7682D47ABA3000CB5DA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F6F0A76E2D47AC16000CB5DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		F6F0A76F2D47AC3D000CB5DA /* LoadingView Captain57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LoadingView Captain57.swift"; sourceTree = "<group>"; };
+		F6F0A7702D47AC3D000CB5DA /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
+		F6F0A7712D47AC3D000CB5DA /* PrivacyView Captain57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PrivacyView Captain57.swift"; sourceTree = "<group>"; };
+		F6F0A7722D47AC3D000CB5DA /* WebView Captain57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WebView Captain57.swift"; sourceTree = "<group>"; };
+		F6F0A7742D47AC3D000CB5DA /* NotificationCenter Captain57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NotificationCenter Captain57.swift"; sourceTree = "<group>"; };
+		F6F0A7752D47AC3D000CB5DA /* QuestionViewModel Captain57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "QuestionViewModel Captain57.swift"; sourceTree = "<group>"; };
+		F6F0A7762D47AC3D000CB5DA /* QuestionView Captain57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "QuestionView Captain57.swift"; sourceTree = "<group>"; };
+		F6F0A7772D47AC3D000CB5DA /* QuestionPickView Captain57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "QuestionPickView Captain57.swift"; sourceTree = "<group>"; };
+		F6F0A7792D47AC3D000CB5DA /* Extensions Captain57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extensions Captain57.swift"; sourceTree = "<group>"; };
+		F6F0A77A2D47AC3D000CB5DA /* FactsView Captain57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FactsView Captain57.swift"; sourceTree = "<group>"; };
+		F6F0A77B2D47AC3D000CB5DA /* QuestionsView Captain57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "QuestionsView Captain57.swift"; sourceTree = "<group>"; };
+		F6F0A77C2D47AC3D000CB5DA /* ImagePicker Captain57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ImagePicker Captain57.swift"; sourceTree = "<group>"; };
+		F6F0A77D2D47AC3D000CB5DA /* ProfileView Captain57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ProfileView Captain57.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +86,50 @@
 		F6F0A7692D47ABA3000CB5DA /* Captain */ = {
 			isa = PBXGroup;
 			children = (
+				F6F0A76E2D47AC16000CB5DA /* Info.plist */,
 				F6F0A7672D47ABA3000CB5DA /* CaptainApp.swift */,
 				F6F0A7682D47ABA3000CB5DA /* ContentView.swift */,
+				F6F0A7732D47AC3D000CB5DA /* Loading Captain57 */,
+				F6F0A7742D47AC3D000CB5DA /* NotificationCenter Captain57.swift */,
+				F6F0A7782D47AC3D000CB5DA /* Questions Captain57 */,
+				F6F0A7792D47AC3D000CB5DA /* Extensions Captain57.swift */,
+				F6F0A77A2D47AC3D000CB5DA /* FactsView Captain57.swift */,
+				F6F0A77B2D47AC3D000CB5DA /* QuestionsView Captain57.swift */,
+				F6F0A77E2D47AC3D000CB5DA /* Profile Captain57 */,
 				F6F0A7662D47ABA3000CB5DA /* Assets.xcassets */,
 				F6F0A7652D47ABA3000CB5DA /* Preview Content */,
 			);
 			path = Captain;
+			sourceTree = "<group>";
+		};
+		F6F0A7732D47AC3D000CB5DA /* Loading Captain57 */ = {
+			isa = PBXGroup;
+			children = (
+				F6F0A76F2D47AC3D000CB5DA /* LoadingView Captain57.swift */,
+				F6F0A7702D47AC3D000CB5DA /* privacy.html */,
+				F6F0A7712D47AC3D000CB5DA /* PrivacyView Captain57.swift */,
+				F6F0A7722D47AC3D000CB5DA /* WebView Captain57.swift */,
+			);
+			path = "Loading Captain57";
+			sourceTree = "<group>";
+		};
+		F6F0A7782D47AC3D000CB5DA /* Questions Captain57 */ = {
+			isa = PBXGroup;
+			children = (
+				F6F0A7752D47AC3D000CB5DA /* QuestionViewModel Captain57.swift */,
+				F6F0A7762D47AC3D000CB5DA /* QuestionView Captain57.swift */,
+				F6F0A7772D47AC3D000CB5DA /* QuestionPickView Captain57.swift */,
+			);
+			path = "Questions Captain57";
+			sourceTree = "<group>";
+		};
+		F6F0A77E2D47AC3D000CB5DA /* Profile Captain57 */ = {
+			isa = PBXGroup;
+			children = (
+				F6F0A77C2D47AC3D000CB5DA /* ImagePicker Captain57.swift */,
+				F6F0A77D2D47AC3D000CB5DA /* ProfileView Captain57.swift */,
+			);
+			path = "Profile Captain57";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,6 +194,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F6F0A76C2D47ABA3000CB5DA /* Preview Assets.xcassets in Resources */,
+				F6F0A77F2D47AC3D000CB5DA /* privacy.html in Resources */,
 				F6F0A76D2D47ABA3000CB5DA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -142,6 +208,18 @@
 			files = (
 				F6F0A76A2D47ABA3000CB5DA /* CaptainApp.swift in Sources */,
 				F6F0A76B2D47ABA3000CB5DA /* ContentView.swift in Sources */,
+				F6F0A7802D47AC3D000CB5DA /* QuestionPickView Captain57.swift in Sources */,
+				F6F0A7812D47AC3D000CB5DA /* NotificationCenter Captain57.swift in Sources */,
+				F6F0A7822D47AC3D000CB5DA /* QuestionViewModel Captain57.swift in Sources */,
+				F6F0A7832D47AC3D000CB5DA /* ProfileView Captain57.swift in Sources */,
+				F6F0A7842D47AC3D000CB5DA /* ImagePicker Captain57.swift in Sources */,
+				F6F0A7852D47AC3D000CB5DA /* Extensions Captain57.swift in Sources */,
+				F6F0A7862D47AC3D000CB5DA /* LoadingView Captain57.swift in Sources */,
+				F6F0A7872D47AC3D000CB5DA /* WebView Captain57.swift in Sources */,
+				F6F0A7882D47AC3D000CB5DA /* QuestionView Captain57.swift in Sources */,
+				F6F0A7892D47AC3D000CB5DA /* PrivacyView Captain57.swift in Sources */,
+				F6F0A78A2D47AC3D000CB5DA /* QuestionsView Captain57.swift in Sources */,
+				F6F0A78B2D47AC3D000CB5DA /* FactsView Captain57.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,6 +356,9 @@
 				DEVELOPMENT_TEAM = FWVBV65566;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Captain/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Captain Quiz";
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to set a photo for your profile.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -290,9 +371,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = testleschenko.Captain;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -307,6 +392,9 @@
 				DEVELOPMENT_TEAM = FWVBV65566;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Captain/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Captain Quiz";
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to set a photo for your profile.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -319,9 +407,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = testleschenko.Captain;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
